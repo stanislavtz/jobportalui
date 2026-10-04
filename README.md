@@ -1,2 +1,1 @@
 # jobpotralui
-# jobportalui
